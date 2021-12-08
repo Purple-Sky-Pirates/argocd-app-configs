@@ -1,4 +1,4 @@
-helm_repository: &helm_repo 'https://nexus-nexus.apps.cluster-04e0.04e0.sandbox949.opentlc.com/repository/helm-charts/'
+helm_repository: &helm_repo 'https://nexus-nexus.apps.cluster-thxb7.thxb7.sandbox393.opentlc.com/repository/helm-charts/'
 # image_version: 1.3
 ##############
 # Argo Apps declaration
